@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.tap_on_boarding_demo",
+    "sha256_cert_fingerprints":
+    ["06:D3:4B:C0:32:F6:22:CA:78:BA:5D:6E:87:65:B7:BC:B8:31:17:6E:10:89:EE:A5:B5:32:81:8F:BD:8C:6F:75"]
+  }
+}]
