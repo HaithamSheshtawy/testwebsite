@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "G46S76PUH4.com.gotapnow.tapOnBoardingDemo",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
